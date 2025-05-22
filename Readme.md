@@ -18,3 +18,5 @@ This project aims to extract the pool files from a local-sync.json file, as foun
 - [Local-sync.json](https://docs.brightsign.biz/display/DOC/Local+Sync) file from the BrightSign device
 
 ## Usage
+
+Copy the "bs-restoreFromSync.js" to the root of the BrightSign card image and run.  Script will create a "Source" subfolder and copy the source media using its original filename.
